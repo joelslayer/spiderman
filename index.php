@@ -64,5 +64,46 @@
 			</div>
 		</div>
 	</section>
+
+	<section class="corpo justify-center">
+		<div class="container space-between">
+			<div class="widget">
+				<div class="widget-info">
+							<div class="title2">Personagens</div>
+							<div class="desc2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat.</div>
+							<div class="link_banner2 justify-center"><a href="">Confira as novidades do Game!</a></div>
+						</div>
+			</div>
+			<div class="widget">
+				<div class="widget-info">
+							<div class="title2">Inimigos</div>
+							<div class="desc2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat.</div>
+							<div class="link_banner2 justify-center"><a href="">Confira as novidades do Game!</a></div>
+						</div>
+			</div>
+			<div class="widget">
+				<div class="widget-info">
+							<div class="title2">Amigos e Familiares</div>
+							<div class="desc2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat.</div>
+							<div class="link_banner2 justify-center"><a href="">Confira as novidades do Game!</a></div>
+						</div>
+			</div>
+		</div>
+	</section>
+
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
 </body>
 </html>
