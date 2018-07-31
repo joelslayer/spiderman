@@ -28,5 +28,41 @@
 			</nav>
 		</div>
 	</section>
+	<section class="slider justify-center">
+		<div class="container">
+			<div id="slideshow" class="slideshow">
+				<div class="slideshow-area">
+					<div class="slide" style="background-image: url(assets/images/bann1.png);">
+						<div class="headline">
+							<div class="title">Spiderman X</div>
+							<div class="desc">New upcoming fev 2019!</div>
+							<div class="link_banner"><a href="">Confira as novidades do Game!</a></div>
+						</div>
+					</div>
+					<div class="slide" style="background-image: url(assets/images/bann1.png);">
+						<div class="headline">
+							<div class="title">Tecnologias</div>
+							<div class="desc">Tendencias tecnologicas para o proximo ano</div>
+							<div class="link_banner"><a href="">Confira as novidades do Game!</a></div>
+						</div>
+					</div>
+					<div class="slide" style="background-image: url(assets/images/bann1.png);">
+						<div class="headline">
+							<div class="title">Eletronica</div>
+							<div class="desc">Conheça os mecanismos por dentro dos consoles.</div>
+							<div class="link_banner"><a href="">Confira as novidades do Game!</a></div>
+						</div>
+					</div>
+					<div class="slide" style="background-image: url(assets/images/bann1.png);">
+						<div class="headline">
+							<div class="title">New Generation</div>
+							<div class="desc">50% OFF games para você!</div>
+							<div class="link_banner"><a href="">Confira as novidades do Game!</a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 </body>
 </html>
