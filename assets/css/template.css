@@ -9,6 +9,11 @@
 
 }
 
+.color-blue
+{
+	color: #1e213c;
+}
+
 body
 {
 	background-image: url(../images/wallpaper.png);
@@ -124,7 +129,6 @@ body
 .desc
 {
 	margin-top: 20px;
-	color: #FFF;
 	font-size: 20px;
 }
 

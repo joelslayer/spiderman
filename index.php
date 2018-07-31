@@ -39,10 +39,10 @@
 							<div class="link_banner"><a href="">Confira as novidades do Game!</a></div>
 						</div>
 					</div>
-					<div class="slide" style="background-image: url(assets/images/bann1.png);">
+					<div class="slide" style="background-image: url(assets/images/bann2.png);">
 						<div class="headline">
-							<div class="title">Tecnologias</div>
-							<div class="desc">Tendencias tecnologicas para o proximo ano</div>
+							<div class="title color-blue">Tecnologias</div>
+							<div class="desc color-blue">Tendencias tecnologicas para o proximo ano</div>
 							<div class="link_banner"><a href="">Confira as novidades do Game!</a></div>
 						</div>
 					</div>
