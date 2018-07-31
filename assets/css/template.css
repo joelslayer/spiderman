@@ -92,14 +92,12 @@ body
 .slider
 {
 	display: flex;
-	height: 350px;
+	
 }
 
 .slideshow
 {
-	background-color: #FFF;
-	height: inherit;
-	width: inherit;
+	width: 100%;
 	overflow: hidden;
 	border-radius: 0px 0 150px 150px;
 }
@@ -116,7 +114,7 @@ body
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 350px;
+
 }
 
 .headline
@@ -196,10 +194,14 @@ body
 	display: flex;
 }
 
+.corpo .container
+{
+	flex-wrap: wrap;
+}
+
 .widget
 {
 	display: flex;
-	flex-wrap: wrap;
 	margin-top: 70px;
 	width: 300px;
 	height: auto;
@@ -212,4 +214,14 @@ body
 {
 	display: flex;
 	flex-direction: column;
+	width: 300px;
+}
+
+@media only screen and (max-width: 616px){
+
+	.corpo .container
+	{
+		justify-content: center;
+	}
+
 }
